@@ -43,7 +43,7 @@
 
 ## Check out my Social Media
 </span>
-<a href= "www.linkedin.com/in/rocio-woscoff" >
+<a href= "https://linkedin.com/in/rocio-woscoff" >
   <img src= "https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" >
 </a>
 
