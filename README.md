@@ -10,10 +10,12 @@
 
 <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***About me***
 
-**I´m a BackEnd Developer, specialized in Java, REST APIs, and Microservices. Focused on designing and developing innovative and high-performance technological solutions, applying agile methodologies like SCRUM. Recognized for my quick adaptability to new tools and technologies, with a constant focus on ensuring code quality through unit testing and strong team collaboration.**
+**I´m a Backend Developer passionate about solving complex problems and creating innovative solutions. Skilled in developing scalable systems and efficient REST APIs, with a strong focus on code quality and process optimization. Known for my ability to work effectively in teams, quickly adapt to new technologies, and leverage agile methodologies to deliver high-standard projects. Committed to continuous learning, I make daily contributions to GitHub to enhance my technical skills.**
 
 ### 🛠 &nbsp;Tech Stack
 
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)&nbsp;
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)&nbsp;
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)&nbsp;
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)&nbsp;
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)&nbsp;
